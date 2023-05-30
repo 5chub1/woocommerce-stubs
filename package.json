@@ -1,0 +1,15 @@
+{
+  "name": "woocommerce-stubs",
+  "version": "1.0.0",
+  "description": "WooCommerce function and class declaration stubs for static analysis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5chub1/woocommerce-stubs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5chub1/woocommerce-stubs/issues"
+  },
+  "homepage": "https://github.com/5chub1/woocommerce-stubs#readme"
+}
